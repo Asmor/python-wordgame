@@ -1,3 +1,5 @@
+#!env python
+
 import random
 
 MIN_WORD_LENGTH = 3
